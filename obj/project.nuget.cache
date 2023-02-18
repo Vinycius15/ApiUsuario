@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "pAp7e94rEbnwvtkPFfWeZl9JaGXqX6JTBWc93x8P3MfN45FMfGUzu82Uwi3T38TUMxKR/2J4/GOKyit1u+RbVA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vinycius\\Documents\\Visual Studio 2022\\ApiSistemaUsuario\\ApiSistemaUsuario.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vinycius\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\vinycius\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\vinycius\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\vinycius\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\vinycius\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\vinycius\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
