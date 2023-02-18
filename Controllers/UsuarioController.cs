@@ -14,7 +14,7 @@ namespace ApiSistemaUsuario.Controllers
         public IEnumerable<UsuarioModel> Get()
         {
            List<UsuarioModel> usuarioModels = new List<UsuarioModel>();
-            usuarioModels.Add(new UsuarioModel() { Id=1, Name= "Vinycius", Email="Vinycius@vinycius" });
+            usuarioModels.Add(new UsuarioModel() { Id=1, Name= "Vinycius ", Email="Vinycius@vinycius" });
             return usuarioModels;
         }
 
